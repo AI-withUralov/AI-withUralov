@@ -1,3 +1,5 @@
+<img align="centre" alt="quote" width="100%" src="https://assets.visme.co/templates/banners/thumbnails/i_Albert-Einstein-Quote-LinkedIn-Header_full.jpg">
+
 <h1 align="center">Hi there 👋 I'm Sherzod, but you can call me Jason.</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer from Uzbekistan with experience in building scalable and user-friendly applications.</h3>
 
