@@ -3,8 +3,8 @@
 <h1 align="center">Hi there 👋 I'm Sherzod, but you can call me Jason.</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer from Uzbekistan with experience in building scalable and user-friendly applications.</h3>
 <img align="right" alt="coding" width="400"
-<img src="https://raw.githubusercontent.com/AI-withUralov/Elice-/master/assets/coding.png">
- />
+src="https://raw.githubusercontent.com/AI-withUralov/AI-withUralov/main/843-8432184_software-developer-png-pluspng-software-engineer-png-icon.png" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-withuralov&label=Profile%20views&color=0e75b6&style=flat" alt="ai-withuralov" /> </p>
