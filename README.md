@@ -11,7 +11,7 @@ src="https://raw.githubusercontent.com/AI-withUralov/AI-withUralov/main/843-8432
 
 - 🔭 I’m currently working on [Travel Korea application.](https://github.com/AI-withUralov/Travel.git)
 
-- 🌱 I’m currently learning **Advanced Full-Stack Development, AI-Powered Applications**
+- 🌱 I’m currently improving my skills of **Advanced Full-Stack Development, AI-Powered Applications**
 
 - 👯 I’m looking to collaborate on [Clothes Store App](https://github.com/AI-withUralov/MyShop.git)
 
